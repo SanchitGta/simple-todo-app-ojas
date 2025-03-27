@@ -1,0 +1,1 @@
+Script for initial database setup if using PostgreSQL.
