@@ -1,0 +1,1 @@
+Middleware for user authentication (optional).
