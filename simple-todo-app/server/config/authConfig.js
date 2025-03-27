@@ -1,0 +1,1 @@
+Authentication configuration settings (if using OAuth).
