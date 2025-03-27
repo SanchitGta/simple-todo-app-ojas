@@ -1,0 +1,1 @@
+Context API for state management concerning tasks.
